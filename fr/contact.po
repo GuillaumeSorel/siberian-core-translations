@@ -36,7 +36,7 @@ msgid "Contact information"
 msgstr "Coordonnées"
 
 msgid "Here is his email:"
-msgstr "Voici son email :"
+msgstr "Voici son adresse électronique :"
 
 msgid "Here is his message:"
 msgstr "Voici son message :"
@@ -54,7 +54,7 @@ msgid "You have received a message from a contact:"
 msgstr "Vous avez reçu un message d'un contact :"
 
 msgid "Your email"
-msgstr "Votre email"
+msgstr "Votre adresse électronique"
 
 msgid "Your message has been sent"
 msgstr "Votre message a été envoyé"
