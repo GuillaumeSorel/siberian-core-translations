@@ -29,16 +29,16 @@ msgid "Account role"
 msgstr "Rôle utilisateur"
 
 msgid "Address:"
-msgstr "Adresse:"
+msgstr "Adresse :"
 
 msgid "Address 2:"
-msgstr "Adresse 2:"
+msgstr "Adresse 2 "
 
 msgid "Administrator : full access"
 msgstr "Administrateur: accès complet"
 
 msgid "Administrator: full access"
-msgstr "Administrateur: accès complet"
+msgstr "Administrateur : accès complet"
 
 msgid "An error occurred while saving. The country is not valid."
 msgstr ""
@@ -48,13 +48,13 @@ msgid "Application"
 msgstr "Application"
 
 msgid "Application have been duplicated successfully."
-msgstr "Application dupliquée avec succès!"
+msgstr "Application dupliquée avec succès !"
 
 msgid "Are you sure you want to delete this application?"
-msgstr "Etes-vous certain de vouloir supprimer cette application?"
+msgstr "Êtes-vous certain de vouloir supprimer cette application ?"
 
 msgid "Are you sure you want to duplicate this application?"
-msgstr "Etes-vous sûr de vouloir dupliquer cette application ?"
+msgstr "Êtes-vous sûr de vouloir dupliquer cette application ?"
 
 msgid "Can add pages"
 msgstr "Peut ajouter des pages"
@@ -69,7 +69,7 @@ msgid "Change my password"
 msgstr "Changer mon mot de passe"
 
 msgid "Company:"
-msgstr "Société:"
+msgstr "Société :"
 
 msgid "Confirm your password"
 msgstr "Confirmez votre mot de passe"
@@ -148,7 +148,7 @@ msgid "No account for now."
 msgstr "Pas de compte pour l'instant"
 
 msgid "Please enter a valid email address."
-msgstr "Se il vous plaît entrer une adresse email valide."
+msgstr "S'il vous plaît entrez une adresse email valide."
 
 msgid "Please, enter an application name"
 msgstr "Merci d'entrer un nom d'application"
@@ -212,13 +212,13 @@ msgid "We are sorry but this email address is already used."
 msgstr "Nous sommes désolés, mais cette adresse e-mail est déjà utilisée."
 
 msgid "Welcome!"
-msgstr "Bienvenue!"
+msgstr "Bienvenue !"
 
 msgid ""
 "You are going to love it! Thanks to our effective features, you will be able "
 "to create great mobile apps in your name, within minutes."
 msgstr ""
-"Vous allez adorer! Vous allez être en mesure de créer de superbes "
+"Vous allez adorer ! Vous allez être en mesure de créer de superbes "
 "applications mobiles à votre nom, en quelques minutes."
 
 msgid "You can't delete the main account"
@@ -234,10 +234,10 @@ msgid "Your credentials"
 msgstr "vos informations d'identification"
 
 msgid "Your login:"
-msgstr "Votre identifiant:"
+msgstr "Votre identifiant :"
 
 msgid "Your password:"
-msgstr "Votre mot de passe:"
+msgstr "Votre mot de passe :"
 
 msgid "Zip Code"
 msgstr "Code postal"
