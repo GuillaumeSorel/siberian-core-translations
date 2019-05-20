@@ -60,7 +60,7 @@ msgid "Can add pages"
 msgstr "Peut ajouter des pages"
 
 msgid "Can generate APK"
-msgstr "Peut générer APK"
+msgstr "Peut générer l'APK"
 
 msgid "Can manage guided tour"
 msgstr "Peut gérer une visite guidée"
