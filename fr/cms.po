@@ -120,7 +120,7 @@ msgid "Page successfully saved"
 msgstr "Page sauvegardée avec succès"
 
 msgid "Phone:"
-msgstr "Téléphone:"
+msgstr "Téléphone :"
 
 msgid "Podcast URL:"
 msgstr "Adresse du podcast :"
