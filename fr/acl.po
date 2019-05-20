@@ -31,10 +31,10 @@ msgid "Delete"
 msgstr "Supprimer"
 
 msgid "Edit"
-msgstr "Editer"
+msgstr "Éditer"
 
 msgid "Edit %s role"
-msgstr "Edition du rôle %s"
+msgstr "Édition du rôle %s"
 
 msgid "Id"
 msgstr "Id"
