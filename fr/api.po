@@ -20,7 +20,7 @@ msgid "Api Keys"
 msgstr "Clés Api"
 
 msgid "Api Keys successfully saved"
-msgstr "Clés API sauvegardés avec succès"
+msgstr "Clés API sauvegardées avec succès"
 
 msgid "Api Users"
 msgstr "Utilisateurs API"
