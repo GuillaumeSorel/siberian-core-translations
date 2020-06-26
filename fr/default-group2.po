@@ -18,7 +18,7 @@ msgid "-"
 msgstr "-"
 
 msgid " \"Remove this page from this folder?\""
-msgstr " \"Supprimer cette page à partir de ce dossier?\""
+msgstr "Retirer cette page de ce dossier ?"
 
 msgid "#100: Unable to fetch the update. Please, try again later."
 msgstr ""
